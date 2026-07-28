@@ -1,0 +1,29 @@
+{
+  "name": "FreeFall",
+  "short_name": "FreeFall",
+  "description": "A single-player word game played on a 9x9 grid of letter tiles. Build words, score points, and clear the board across multiple levels and modes.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F5F4F0",
+  "theme_color": "#185FA5",
+  "orientation": "portrait",
+  "categories": ["games", "puzzle"],
+  "icons": [
+    { "src": "icon-48.png",  "sizes": "48x48",   "type": "image/png", "purpose": "any" },
+    { "src": "icon-48.png",  "sizes": "48x48",   "type": "image/png", "purpose": "maskable" },
+    { "src": "icon-96.png",  "sizes": "96x96",   "type": "image/png", "purpose": "any" },
+    { "src": "icon-96.png",  "sizes": "96x96",   "type": "image/png", "purpose": "maskable" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon-256.png", "sizes": "256x256", "type": "image/png", "purpose": "any" },
+    { "src": "icon-256.png", "sizes": "256x256", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "screenshots": [
+    { "src": "Main_Grid_750x1334.png",      "sizes": "750x1334",  "type": "image/png", "form_factor": "narrow", "label": "FreeFall Main Grid" },
+    { "src": "Main_Grid_800x1280.png",      "sizes": "800x1280",  "type": "image/png", "form_factor": "wide",   "label": "FreeFall Main Grid" },
+    { "src": "Opening_Screen_750x1334.png", "sizes": "750x1334",  "type": "image/png", "form_factor": "narrow", "label": "FreeFall Opening Screen" },
+    { "src": "Opening_Screen_800x1280.png", "sizes": "800x1280",  "type": "image/png", "form_factor": "wide",   "label": "FreeFall Opening Screen" }
+  ]
+}
