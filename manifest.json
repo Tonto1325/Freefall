@@ -7,7 +7,8 @@
   "background_color": "#F5F4F0",
   "theme_color": "#185FA5",
   "orientation": "portrait",
-  "categories": ["games", "puzzle"],
+  "categories": ["education", "entertainment", "games"],
+  "lang": "en",
   "icons": [
     { "src": "icon-48.png",  "sizes": "48x48",   "type": "image/png", "purpose": "any" },
     { "src": "icon-48.png",  "sizes": "48x48",   "type": "image/png", "purpose": "maskable" },
@@ -22,8 +23,8 @@
   ],
   "screenshots": [
     { "src": "Main_Grid_750x1334.png",      "sizes": "750x1334",  "type": "image/png", "form_factor": "narrow", "label": "FreeFall Main Grid" },
-    { "src": "Main_Grid_800x1280.png",      "sizes": "800x1280",  "type": "image/png", "form_factor": "wide",   "label": "FreeFall Main Grid" },
+    { "src": "Main_Grid_800x1280.png",      "sizes": "800x1280",  "type": "image/png", "form_factor": "narrow", "label": "FreeFall Main Grid Wide" },
     { "src": "Opening_Screen_750x1334.png", "sizes": "750x1334",  "type": "image/png", "form_factor": "narrow", "label": "FreeFall Opening Screen" },
-    { "src": "Opening_Screen_800x1280.png", "sizes": "800x1280",  "type": "image/png", "form_factor": "wide",   "label": "FreeFall Opening Screen" }
+    { "src": "Opening_Screen_800x1280.png", "sizes": "800x1280",  "type": "image/png", "form_factor": "narrow", "label": "FreeFall Opening Screen Wide" }
   ]
 }
